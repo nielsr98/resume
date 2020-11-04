@@ -1,2 +1,2 @@
 # resume
-Resume website
+Hi! Here you can find a pdf of my resume.
