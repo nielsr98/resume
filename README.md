@@ -1,2 +1,2 @@
 # resume
-Hi! Here you can find a pdf of my resume.
+Hi! Here you can find my resume as pdf and pages documents.
